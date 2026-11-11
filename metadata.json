@@ -1,0 +1,7 @@
+{
+  "name": "Đồng Hới Food - Ẩm Thực Quảng Bình",
+  "description": "Ứng dụng đặt và giao đồ ăn đặc sản Đồng Hới, Quảng Bình - Bánh lọc, cháo canh, hải sản tươi Nhật Lệ giao nhanh tận nơi",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
